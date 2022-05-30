@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1054345411454",
+    "project_id": "lechat-8a06c",
+    "storage_bucket": "lechat-8a06c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054345411454:android:c1051cbb6b4c35cb16d12f",
+        "android_client_info": {
+          "package_name": "com.example.lechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054345411454-m7oogio44rloio1ci5gt79iuulgmfob1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_UjrPY2B6dPP0-nKrZOHlASc3iyuE7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054345411454-m7oogio44rloio1ci5gt79iuulgmfob1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1054345411454-euuqa997qorn198hataea6masf70j5lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
